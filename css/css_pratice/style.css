@@ -1,0 +1,36 @@
+body{
+    background-color:transparent;
+}
+.ellipse{
+    margin: 30px auto;
+    height: 300px;
+    width: 500px;
+    border-radius: 50%;
+    border: 10px solid green;
+    box-shadow: 0 0 15px  darkred;
+    background-image: url("https://www.hindustantimes.com/static-content/1y/cricket-logos/players/virat-kohli.png");
+    background-size: cover;
+}
+.oval{
+    margin: 50px auto ;
+    height: 400px;
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid orange;
+    box-shadow: 0 0 15px greenyellow;
+
+    background-image:url("https://images.news18.com/ibnlive/uploads/2024/04/virat-kohli-glenn-maxwell-t20-world-cup-2024-04-15ea3f9519a4b70fbec554108e28f931.jpg?impolicy=website&width=640&height=480");
+    background-size: cover;
+
+}
+.circle{
+    margin: 50px auto;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border: 10px solid burlywood ;
+    box-shadow:0 0 15px red ;
+    background-image: url("https://femina.wwmindia.com/thumb/content/2023/dec/virat-kohli-thumb1702286545.jpg?width=1200&height=900");
+    background-size: cover;
+
+}

@@ -1,0 +1,87 @@
+
+.container{
+    font-style: italic;
+    background-color: rgb(233, 240, 240);
+    display: inline-block;
+    border: 10px solid darkgoldenrod;
+    height:800px ;
+    width: 850px;
+   box-shadow: 0 0 15px black;
+    
+.box-1{
+   
+  font-family: "Poetsen One", sans-serif;
+    background-color: coral;
+   
+    border: 10px solid green;
+    box-shadow: 0 0 15px black;
+  
+    height:200px ;
+    width: 200px;
+    border: 10px solid red;
+    display:inline-block;
+    margin: auto;
+
+}
+.box-2{
+    font-family: "Sedan SC", serif;
+    border: 10px solid rgb(0, 255, 60);
+    box-shadow: 0 0 15px black;
+    height:200px ;
+    width: 200px;
+    display: inline-block;
+    background-color: rgba(179, 246, 91, 0.669);
+    margin: auto;
+   
+
+}
+.box-3{
+    font-family: "Pacifico", cursive;
+    border: 10px solid darkgoldenrod;
+    box-shadow: 0 0 15px black;
+    height:200px ;
+    width: 200px;
+    display:inline-block;
+    margin: auto;
+    background-color: rgb(210, 236, 12);
+   
+
+
+}
+.box-4{
+    font-family: "Teko", sans-serif;
+    border: 10px solid darkblue;
+    box-shadow: 0 0 15px black;
+    height:200px ;
+    margin: auto;
+    width: 200px;
+    display: inline-block;
+    background-color: rgb(237, 15, 222);
+   
+}
+.box-5{
+    border: 10px solid darkkhaki;
+    font-family: "Lobster", sans-serif;
+    box-shadow: 0 0 15px rgb(229, 50, 151);
+    height:200px ;
+    margin: auto;
+    width: 200px;
+    display:inline-block;
+    background-color: rgb(8, 188, 248);
+   
+}
+
+.box-6{
+    border: 10px solid darkkhaki;
+    box-shadow: 0 0 15px rgb(222, 9, 211);
+    font-family: "Sedan SC", serif;
+    height:200px ;
+    width: 200px;
+    margin: auto;
+    display:inline-block;
+    background-color: rgb(221, 13, 13);
+   
+}
+
+}
+
